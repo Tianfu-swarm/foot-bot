@@ -501,6 +501,7 @@ namespace argos
         UPDATE(m_pcRABEquippedEntity);
         UPDATE(m_pcLEDEquippedEntity);
         UPDATE(m_pcBatteryEquippedEntity);
+        UPDATE(m_pcSimpleRadioEquippedEntity);
     }
 
     /****************************************/
